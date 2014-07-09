@@ -18,7 +18,7 @@ RUN \
   cd opencv && \
   git checkout -b v2.4.9 refs/tags/2.4.9 && \
   cmake . && \
-  make && make install && \
+  make && make install
 
 # Define mountable directories.
 VOLUME ["/data"]
