@@ -1,7 +1,7 @@
 #
 # Python+OpenCV Dockerfile
 #
-# https://github.com/umeice/mecab
+# https://github.com/umeice/opencv
 #
 
 # Pull base image.
